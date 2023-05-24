@@ -2,8 +2,8 @@
 
 ### ENGLISH:
 
-**WARNING**
-Once the reports have been parsed, the script deletes all \*.zip, \*.misp-json and *.csv-ids files within the working directory.
+**WARNING**:
+once the reports have been parsed, the script deletes all \*.zip, \*.misp-json and *.csv-ids files within the working directory.
 
 **Script's purpose:**
 
@@ -52,8 +52,8 @@ Once the reports have been parsed, the script deletes all \*.zip, \*.misp-json a
 
 ### ITALIANO:
 
-**AVVERTENZA**
-Una volta analizzati i rapporti, lo script elimina tutti i file \*.zip, \*.misp-json, *.csv-ids presenti nella cartella corrente.
+**AVVERTENZA**:
+una volta analizzati i rapporti, lo script elimina tutti i file \*.zip, \*.misp-json, *.csv-ids presenti nella cartella corrente.
 
 **Scopo dello script:**
 
